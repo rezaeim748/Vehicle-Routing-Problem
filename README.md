@@ -1,4 +1,4 @@
-# Vehicle Routing Problem (VRP) with Real Coordinates
+# Vehicle Routing Problem (VRP)
 
 ## Overview
 This project implements and visualizes a solution to the classical **Vehicle Routing Problem (VRP)** using real-world geographic coordinates. It focuses on optimizing delivery routes for a fleet of vehicles while considering customer demands, vehicle capacities, and delivery time windows. The solution uses Google's OR-Tools to solve the routing problem and `geopy` to compute geographic distances.
@@ -28,10 +28,6 @@ This project implements and visualizes a solution to the classical **Vehicle Rou
 This project is implemented in a Jupyter Notebook:
 
 - `vehicle_routing_problem.ipynb`
-
-Additional files generated include:
-
-- `arxiv_coauthorship_largest_component.gexf` (from the previous project, if applicable)
 
 ## How to Run
 1. Install required packages:
