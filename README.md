@@ -47,7 +47,7 @@ Additional files generated include:
 
 ## Visualizations
 ### Vehicle Route Visualization
-![VRP Route Plot](images/vrp_sample_plot.png)
+![VRP Route Plot](images/vrp_result_plot.png)
 Each vehicle's route is plotted using a different color, showing the order of visits based on geographic coordinates.
 
 ## Example Analyses
